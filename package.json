@@ -1,0 +1,8 @@
+{
+  "name": "test-udemy",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "start": "rails server -p 3001"
+  }
+}
